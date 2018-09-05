@@ -10,22 +10,22 @@ features - morphological, phenotypical and physiological. New characters are oft
 
 ![Acmopetala](https://github.com/AgataRoguz/projekty_uw/blob/master/grafika/acmopetala%20bee.jpg)
 
-*F. acmopetala* - bee polinated flower (Fritillaria Icones)
+*F. acmopetala* - bee-polinated flower (http://www.fritillariaicones.com)
 
 ![Camschatcensis](../master/grafika/camtch%20-%20fly.jpg)
 
-*F. camschatcensis* - fly polinated flower (Fritillaria Icones)
+*F. camschatcensis* - fly-polinated flower (http://www.fritillariaicones.com)
 
 ![Genterii](../master/grafika/gentrnerii%20-%20hummmingbird.jpg)
 
-*F. gentnerii* - hummingbird polinated flower (Fritillaria Icones)
+*F. gentnerii* - hummingbird-polinated flower (http://www.fritillariaicones.com)
 
 ![Imperialis](../master/grafika/imperialis%20-%20passerine.jpg)
 
-*F. gentnerii* - passerine polinated flower (Fritillaria Icones)
+*F. gentnerii* - passerine-polinated flower (http://www.fritillariaicones.com)
 
 ![STENNTHERA](../master/grafika/stenanthera%20-%20lep.jpg)
 
-*F. stenathera* - lepidoptera polinated flower (Fritillaria Icones)
+*F. stenathera* - lepidoptera-polinated flower (http://www.fritillariaicones.com)
 
 
