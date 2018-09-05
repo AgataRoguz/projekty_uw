@@ -8,8 +8,8 @@ The main goal of this project was to investigate flowers' evolution in the genus
 features - morphological, phenotypical and physiological. New characters are often a response to preferences of the most common and the most effective pollinators. Flowers features in charge of bird pollination, which evolved in studied genus, can differ – the ornitophilous members of Fritillary grow in different continents and their pollinators belong to different taxonomical groups (hummingbirds vs. passerines). In this project we investigated  several characters of the flowers related to pollination biology.
 
 
-![Acmopetala](../master/grafika/acmopetala bee.jpg)
+![Acmopetala](https://github.com/AgataRoguz/projekty_uw/blob/master/grafika/acmopetala%20bee.jpg)
 
 *F. acmopetala* - bee polinated flower
 
-![stack Overflow](http://lmsotfy.com/so.png)
+![stack](../master/grafika/acmopetala%20bee.jpg)
